@@ -1,0 +1,6 @@
+selenium
+pytest
+python-dotenv
+pytest-xdist
+pytest-rerunfailures
+pytest-html
